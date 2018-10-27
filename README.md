@@ -1,2 +1,3 @@
 # xdoj-
-包含xdoj系统中习题
+Includes exercises and calculations while learning
+>this introduction is written by **Markdown** (useful)
