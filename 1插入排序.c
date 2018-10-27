@@ -24,6 +24,10 @@ int main()
 	}
 	for(i=0;i<length;i++)
 	{
+		if(arr[i]==0)
+		{
+			continue;
+		}
 		printf("%d\t",arr[i]);
 	}
 	return 0;
